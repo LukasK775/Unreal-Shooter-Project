@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealStuff/FPSTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/TEX_Pistol.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/Pistol.uasset",
+				"D:/UnrealStuff/FPSTest/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/Pistol1.uasset",
+				"D:/EpicLauncher/UE_5.4/Engine/Content/EditorMeshes/MatineeCam_SM.uasset",
+				"D:/UnrealStuff/FPSTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/TR/2F4WB9EWK6NYJ4IS3ZZLZN.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/WeaponsHolder.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Enums/WeaponTypeEnum.uasset",
+				"D:/UnrealStuff/FPSTest/Content/FirstPerson/Input/Actions/WeaponChangeKey.uasset",
+				"D:/UnrealStuff/FPSTest/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"D:/UnrealStuff/FPSTest/Content/FirstPerson/Input/Actions/IA_Move.uasset",
+				"D:/UnrealStuff/FPSTest/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"D:/UnrealStuff/FPSTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/A7497QOIBLD5UMO5NRJMCD.uasset",
+				"D:/UnrealStuff/FPSTest/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/UnrealStuff/FPSTest/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/MinigunPickup.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/MinigunPickup1.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/MinigunViewmodel.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/MinigunViewmodel1.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/MinigunViewmodel_ncl1_1.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/TEX_MinigunPickup.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/MinigunViewmodelTXT.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Effects/ParticleTXT_Flash.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Effects/VMMuzzle.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Effects/FlashMaterial.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Effects/MuzzleEmitter.uasset",
+				"D:/UnrealStuff/FPSTest/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/Shotgun.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/Shotgun_ncl1_1.uasset",
+				"D:/UnrealStuff/FPSTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/E5/Z9N37N1O8YRTZ1TKW5X37G.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/Shotgun1.uasset",
+				"D:/UnrealStuff/FPSTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/WY/95FSUTQ4UNPNH4VKD58OXI.uasset",
+				"D:/UnrealStuff/FPSTest/Content/Weapons/TEX_MinigunViewmodel.uasset",
+				"D:/UnrealStuff/FPSTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2F/H3B5DL062ZGTGBPFC6XJ2O.uasset",
+				"D:/UnrealStuff/FPSTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
+			]
+		}
+	]
+}
